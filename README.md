@@ -16,9 +16,7 @@ Source code of the BackMIC
     sample_num=size(data,1); 
     [MIC,thebestc1,thebestc2]=MIC_OIC_chi_1_1_back(data,sample_num^0.55,5,sample_num)
 
-    
-    
 Source: 
-An improved algorithm for the maximal information coefficient and its application
+Cao D, Chen Y, Chen J, et al. [An improved algorithm for the maximal information coefficient and its application.](https://royalsocietypublishing.org/doi/full/10.1098/rsos.201424)  Royal Society Open Science, 2021, 8(2): 201424
 ## Contact me：chenyuan0510@126.com
 
